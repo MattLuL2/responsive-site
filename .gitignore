@@ -1,0 +1,37 @@
+\
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+
+# Build
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+/Build/
+/Builds/
+/Library/
+/Temp/
+/obj/
+/Debug/
+/Release/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+/Assets/AssetStoreTools*
+/Assets/StreamingAssets
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db
