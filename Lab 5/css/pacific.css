@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+}
+
+header thead {
+  background-color: #4d849c;
+  color: #f9fdfe;
+}
+
+header table {
+  width: 100%;
+  border-spacing: 0px;
+}
+
+header table td:first-child {
+  width: 1px;
+}
+
+nav {
+  background-color: #ffe39d;
+  align-content: center;
+}
+
+nav a {
+  color: #fff;
+}
+
+nav table td {
+  padding: 10px;
+}
+
+nav table td a {
+  color: #4d849c;
+}
+
+nav table td:hover {
+  background-color: #423072;
+  color: #eceff1;
+}
+
+nav table td a:hover {
+  color: #eceff1;
+}
+
+main {
+  margin: auto;
+  width: 75%;
+  background-color: #fff6df;
+  padding: 10px;
+}
+
+footer table {
+  background-color: #255e66;
+  color: #fff;
+  width: 100%;
+  text-align: center;
+}
+
+footer table a {
+  color: #ffefcc;
+  text-decoration: solid;
+}
+
+footer table a:hover {
+  text-decoration: underline;
+}
+
+.yurts-table {
+  border: 2px solid #3399cc;
+  border-collapse: collapse;
+  margin: auto;
+  width: 75%;
+}
+
+.yurts-table td,
+.yurts-table th {
+  padding: 0.5em;
+  border: 2px solid #3399cc;
+}
+
+.yurts-table td {
+  text-align: left;
+}
+
+.yurts-table th {
+  text-align: center;
+}
+
+.yurts-table tr:nth-of-type(odd){
+  background-color: #F5FAFC;
+}
+
+#wrapper{
+  
+}
