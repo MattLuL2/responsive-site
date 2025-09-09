@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+.task-board {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.task-column {
+    border: 1px dashed #ccc;
+    padding: 10px;
+    width: 30%;
+    text-align: center;
+}
+.task-column h2 {
+    margin-bottom: 10px;
+}
+.task-item {
+    background-color: #d9edf7;
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 4px;
+}
